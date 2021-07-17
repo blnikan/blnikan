@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nikita Anyutin (@blnikan)
+- 🌱 I studied at the MPEI in heat engineering and heat power engineering for 2 years. Now I am studying at the Russian New University (RNU) 2023.I studied at the MPEI in heat engineering and heat power engineering for 2 years. Now I study at the Russian New University (RNU) 2023. 
+- I'm interested in math and programming
+- 💞️ I’m looking to collaborate on Python, C++
