@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://github.com/blnikan">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blnikan&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&count_private=true" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blnikan&hide=html,css&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&count_private=true" />
 </a>
 
 <a href="https://github.com/blnikan">
