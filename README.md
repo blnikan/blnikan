@@ -2,10 +2,10 @@
 
 [![kaggle](https://img.shields.io/badge/kaggle-profile-blue)](https://www.kaggle.com/blnikan)
 
-[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/blnikan)
 
 <br>
 
+[![codewars](https://www.codewars.com/users/blnikan/badges/large)](https://www.codewars.com/users/blnikan) 
 
 <br>
 
