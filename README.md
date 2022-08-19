@@ -6,7 +6,6 @@
 
 <br>
 
-[![codewars](https://www.codewars.com/users/blnikan/badges/large)](https://www.codewars.com/users/blnikan) 
 
 <br>
 
